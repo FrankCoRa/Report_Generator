@@ -1,4 +1,4 @@
-# Report_Generator
+# Case_Report_Generator
 ## Optimized Archiving Process to Enhance Case Management Efficiency
 
 During my internship as a Data Governance Intern, one of my primary responsibilities was managing archived cases and freeing up storage space on our main hard drive. The goal was to ensure that attorneys and paralegals could efficiently manage their active cases without delays, improving the overall workflow.
