@@ -122,7 +122,8 @@ pdf.output("Folder_Size_Report.pdf")
 print("PDF report generated: Folder_Size_Report.pdf")
 ```
 As a result, we successfully generated a list that meets the objective of sorting files accurately, allowing for more efficient and streamlined archiving. 
-![Alt text](https://github.com/FrankCoRa/TidyingData_Python/blob/main/tidying_results.png)
+![Alt text](https://github.com/FrankCoRa/Report_Generator/blob/main/Folder_Size_Report.pdf)
+
 I hope this script helps automate the process of organizing files on your hard drive or within your file explorer, making report generation smoother and more efficient.
 
 
