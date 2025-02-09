@@ -18,7 +18,7 @@ import pandas as pd
 from fpdf import FPDF
 from datetime import datetime
 ```
-## Defining the Funtion
+## Defining the Function
 ```r
 def get_folder_info(folder_path):
     """Calculate the total size, file count, and last modified date of a folder."""
@@ -122,7 +122,7 @@ pdf.output("Folder_Size_Report.pdf")
 print("PDF report generated: Folder_Size_Report.pdf")
 ```
 As a result, we successfully generated a list that meets the objective of sorting files accurately, allowing for more efficient and streamlined archiving. 
-
+![Alt text](https://github.com/FrankCoRa/TidyingData_Python/blob/main/tidying_results.png)
 I hope this script helps automate the process of organizing files on your hard drive or within your file explorer, making report generation smoother and more efficient.
 
 
